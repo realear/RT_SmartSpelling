@@ -1,1 +1,7 @@
-# RT_SmartSpelling
+# RTSmartSpelling
+
+#### 介绍
+RT字始至终的Plus版本，智能部件的拼造6763，支持自定义模板的导出和选择。
+
+使用说明撰写中。
+
